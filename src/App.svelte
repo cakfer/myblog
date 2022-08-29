@@ -51,11 +51,13 @@
               <p>Ketik teks atau url untuk membuat kode QR.</p>
             </div>
             </a>
+            <a href="https://kela.pages.dev/love-calculator">
             <div class="ui-component-card ui-layout-column-4">
-              <img src="https://res.cloudinary.com/uisual/image/upload/assets/graphics/chat.png" alt="#" loading="lazy" class="ui-component-card--image">
-              <h4 class="ui-component-card--title">Lorem ipsum dolor.</h4>
-              <p>Lorem ipsum dolor sit amet sed eiusmod tempor incididunt.</p>
+              <img src="img/love.png" alt="#" loading="lazy" class="ui-component-card--image">
+              <h4 class="ui-component-card--title">Hitung Cintamu.</h4>
+              <p>Inilah Kalkulator Cinta yang memungkinkan Anda menghitung kecocokan cinta dan peluang Anda untuk hubungan yang sukses.</p>
             </div>
+            </a>
           </div>
         </div>
       </section>
