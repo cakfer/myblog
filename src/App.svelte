@@ -46,7 +46,7 @@
             </a>
             <a href="https://kela.pages.dev/qr-code">
             <div class="ui-component-card ui-layout-column-4">
-              <img src="img/chart.png" alt="QR Code" loading="lazy" class="ui-component-card--image">
+              <img src="img/qr-code.png" alt="QR Code" loading="lazy" class="ui-component-card--image">
               <h4 class="ui-component-card--title">QR Code Generator.</h4>
               <p>Ketik teks atau url untuk membuat kode QR.</p>
             </div>
