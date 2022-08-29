@@ -45,9 +45,9 @@
             </div>
             </a>
             <div class="ui-component-card ui-layout-column-4">
-              <img src="https://res.cloudinary.com/uisual/image/upload/assets/graphics/chat.png" alt="#" loading="lazy" class="ui-component-card--image">
-              <h4 class="ui-component-card--title">Lorem ipsum dolor.</h4>
-              <p>Lorem ipsum dolor sit amet sed eiusmod tempor incididunt.</p>
+              <img src="img/chart.png" alt="QR Code" loading="lazy" class="ui-component-card--image">
+              <h4 class="ui-component-card--title">QR Code Generator.</h4>
+              <p>Ketik teks atau url untuk membuat kode QR.</p>
             </div>
             <div class="ui-component-card ui-layout-column-4">
               <img src="https://res.cloudinary.com/uisual/image/upload/assets/graphics/chat.png" alt="#" loading="lazy" class="ui-component-card--image">
