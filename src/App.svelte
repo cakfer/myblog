@@ -22,7 +22,7 @@
           <!-- COPYWRITING -->
           <div class="ui-layout-column-6 ui-layout-column-center">
             <h1>Hello {name}.</h1>
-            <p class="ui-text-intro">Selamat datang di blog Hello Friends. Silakan, lihat sekeliling dan periksa apakah ini yang Anda cari.</p>
+            <p class="ui-text-intro">Selamat datang di blog saya. Silakan, lihat sekeliling dan periksa apakah ini yang Anda cari.</p>
             <!-- CTA -->
             <div class="ui-component-cta ui-layout-flex">
               <form action="." class="ui-component-form ui-layout-grid ui-layout-column-4">
