@@ -39,7 +39,7 @@
           <div class="ui-section-content__layout ui-layout-grid ui-layout-grid-2">
             <a href="https://kela.pages.dev/">
             <div class="ui-component-card ui-layout-column-4">
-              <img src="img/twibbon.png" alt="Demo Twibbon" loading="lazy" class="ui-component-card--image">
+              <img src="img/preview.png" alt="Demo Twibbon" loading="lazy" class="ui-component-card--image">
               <h4 class="ui-component-card--title">Twibbon Generator.</h4>
               <p>Twibbon generator untuk membuat gambar kampanye media sosial.</p>
             </div>
