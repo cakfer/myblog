@@ -84,9 +84,9 @@
           <!-- COPYRIGHT -->
           <p class="ui-section-footer--copyright ui-text-note"><small>&copy; Ferry Ayunda</small></p>
           <!-- MENU -->
-          <a href="#" role="link" aria-label="#" class="ui-text-note"><small>Features</small></a>
-          <a href="#" role="link" aria-label="#" class="ui-text-note"><small>Help</small></a>
-          <a href="#" role="link" aria-label="#" class="ui-text-note"><small>Terms</small></a>
+          <a href="https://saweria.co/bungferry" role="link" aria-label="#" class="ui-text-note"><small>Features</small></a>
+          <a href="https://www.facebook.com/bungferry.wa" role="link" aria-label="#" class="ui-text-note"><small>Help</small></a>
+          <a href="https://www.facebook.com/profile.php?id=100059526018762" role="link" aria-label="#" class="ui-text-note"><small>Terms</small></a>
         </div>
       </div>
     </footer>
