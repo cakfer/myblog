@@ -2,29 +2,87 @@
 	export let name;
 </script>
 
-<main>
-	<h1>Hello {name}!</h1>
-	<p>Visit the <a href="https://svelte.dev/tutorial">Svelte tutorial</a> to learn how to build Svelte apps.</p>
-</main>
-
-<style>
-	main {
-		text-align: center;
-		padding: 1em;
-		max-width: 240px;
-		margin: 0 auto;
-	}
-
-	h1 {
-		color: #ff3e00;
-		text-transform: uppercase;
-		font-size: 4em;
-		font-weight: 100;
-	}
-
-	@media (min-width: 640px) {
-		main {
-			max-width: none;
-		}
-	}
-</style>
+<header role="banner" class="ui-section-header">
+      <div class="ui-layout-container">
+        <div class="ui-section-header__layout ui-layout-flex">
+          <!-- LOGO -->
+          <a href="." role="link" aria-label="#">
+            <img src="img/logo.svg" alt="Logo" style="width:18px;height:18px;">
+          </a>
+          <!-- MENU -->
+          <a href="https://github.com/cakfer" role="link" aria-label="#">
+            <img src="img/github.svg" alt="Github" style="width:18px;height:18px;">
+          </a>
+        </div>
+      </div>
+    </header>
+    <main role="main">
+      <section class="ui-section-hero">
+        <div class="ui-layout-container">
+          <!-- COPYWRITING -->
+          <div class="ui-layout-column-6 ui-layout-column-center">
+            <h1>Hello {name}.</h1>
+            <p class="ui-text-intro">Selamat datang di blog Hello Friends. Silakan, lihat sekeliling dan periksa apakah ini yang Anda cari.</p>
+            <!-- CTA -->
+            <div class="ui-component-cta ui-layout-flex">
+              <form action="." class="ui-component-form ui-layout-grid ui-layout-column-4">
+                <input type="email" placeholder="Email" class="ui-component-input ui-component-input-medium" required>
+                <button type="submit" class="ui-component-button ui-component-button-medium ui-component-button-primary">Join Waitlist</button>
+              </form>
+              <p class="ui-text-note"><small>Tersedia di Mac, Windows, dan Linux.</small></p>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="ui-section-content">
+        <div class="ui-layout-container">
+          <div class="ui-section-content__layout ui-layout-grid ui-layout-grid-2">
+            <a href="https://kela.pages.dev/">
+            <div class="ui-component-card ui-layout-column-4">
+              <img src="img/preview-twibbon.png" alt="Demo Twibbon" loading="lazy" class="ui-component-card--image">
+              <h4 class="ui-component-card--title">Twibbon Generator.</h4>
+              <p>Twibbon generator untuk membuat gambar kampanye media sosial.</p>
+            </div>
+            </a>
+            <div class="ui-component-card ui-layout-column-4">
+              <img src="https://res.cloudinary.com/uisual/image/upload/assets/graphics/chat.png" alt="#" loading="lazy" class="ui-component-card--image">
+              <h4 class="ui-component-card--title">Lorem ipsum dolor.</h4>
+              <p>Lorem ipsum dolor sit amet sed eiusmod tempor incididunt.</p>
+            </div>
+            <div class="ui-component-card ui-layout-column-4">
+              <img src="https://res.cloudinary.com/uisual/image/upload/assets/graphics/chat.png" alt="#" loading="lazy" class="ui-component-card--image">
+              <h4 class="ui-component-card--title">Lorem ipsum dolor.</h4>
+              <p>Lorem ipsum dolor sit amet sed eiusmod tempor incididunt.</p>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="ui-section-close">
+        <div class="ui-layout-container">
+          <div class="ui-layout-column-6 ui-layout-column-center">
+            <h2>Ada pertanyaan? Saya punya jawaban.</h2>
+            <p class="ui-text-intro">Ingin menghubungi? Isi formulir di bawah ini untuk mengirimi saya pesan dan saya akan segera menghubungi Anda kembali!</p>
+            <!-- CTA -->
+            <div class="ui-component-cta ui-layout-flex">
+              <form action="." class="ui-component-form ui-layout-grid ui-layout-column-4">
+                <input type="email" placeholder="Email" class="ui-component-input ui-component-input-medium" required>
+                <button type="submit" class="ui-component-button ui-component-button-medium ui-component-button-primary">Join Waitlist</button>
+              </form>
+              <p class="ui-text-note"><small>Tersedia di Mac, Windows, dan Linux.</small></p>
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+    <footer role="contentinfo" class="ui-section-footer">
+      <div class="ui-layout-container">
+        <div class="ui-section-footer__layout ui-layout-flex">
+          <!-- COPYRIGHT -->
+          <p class="ui-section-footer--copyright ui-text-note"><small>&copy; Ferry Ayunda</small></p>
+          <!-- MENU -->
+          <a href="#" role="link" aria-label="#" class="ui-text-note"><small>Features</small></a>
+          <a href="#" role="link" aria-label="#" class="ui-text-note"><small>Help</small></a>
+          <a href="#" role="link" aria-label="#" class="ui-text-note"><small>Terms</small></a>
+        </div>
+      </div>
+    </footer>
