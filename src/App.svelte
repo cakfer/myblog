@@ -39,23 +39,30 @@
           <div class="ui-section-content__layout ui-layout-grid ui-layout-grid-2">
             <a href="https://kela.pages.dev/">
             <div class="ui-component-card ui-layout-column-4">
-              <img src="img/preview.png" alt="Demo Twibbon" loading="lazy" class="ui-component-card--image">
+              <img src="img/preview.png" alt="Twibbon Generator" loading="lazy" class="ui-component-card--image">
               <h4 class="ui-component-card--title">Twibbon Generator.</h4>
               <p>Twibbon generator untuk membuat gambar kampanye media sosial.</p>
             </div>
             </a>
             <a href="https://kela.pages.dev/qr-code">
             <div class="ui-component-card ui-layout-column-4">
-              <img src="img/qr-code.png" alt="QR Code" loading="lazy" class="ui-component-card--image">
+              <img src="img/qr-code.png" alt="QR Code Generator" loading="lazy" class="ui-component-card--image">
               <h4 class="ui-component-card--title">QR Code Generator.</h4>
               <p>Ketik teks atau url untuk membuat kode QR.</p>
             </div>
             </a>
             <a href="https://kela.pages.dev/love-calculator">
             <div class="ui-component-card ui-layout-column-4">
-              <img src="img/love.png" alt="#" loading="lazy" class="ui-component-card--image">
+              <img src="img/love.png" alt="Love Calculator" loading="lazy" class="ui-component-card--image">
               <h4 class="ui-component-card--title">Hitung Cintamu.</h4>
               <p>Inilah Kalkulator Cinta yang memungkinkan Anda menghitung kecocokan cinta dan peluang Anda untuk hubungan yang sukses.</p>
+            </div>
+            </a>
+            <a href="https://kela.pages.dev/twibbon">
+            <div class="ui-component-card ui-layout-column-4">
+              <img src="img/demo.png" alt="Twibbon Generator v.02" loading="lazy" class="ui-component-card--image">
+              <h4 class="ui-component-card--title">Twibbon Generator v.02</h4>
+              <p>Unggah karya seni Anda dengan latar belakang transparan sebagai File .PNG terpisah, dengan ukuran kurang dari 1 MB.</p>
             </div>
             </a>
           </div>
