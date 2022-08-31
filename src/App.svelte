@@ -62,7 +62,7 @@
             <div class="ui-component-card ui-layout-column-4">
               <img src="img/demo.png" alt="Twibbon Generator v.02" loading="lazy" class="ui-component-card--image">
               <h4 class="ui-component-card--title">Twibbon Generator v.02</h4>
-              <p>Unggah karya seni Anda dengan latar belakang transparan sebagai File .PNG terpisah, dengan ukuran kurang dari 1 MB.</p>
+              <p>Unggah karya seni bingkai Anda dengan latar belakang transparan sebagai File .PNG terpisah, dengan ukuran kurang dari 1 MB.</p>
             </div>
             </a>
           </div>
